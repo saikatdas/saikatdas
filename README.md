@@ -10,6 +10,8 @@
 * Connect with me on Linkedin :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/saikatdas93/) :sparkler:
 * Like my work ? BuyMeaCoffe and support me: [BuyMeACoffe](https://www.buymeacoffee.com/saikatdas) ![image](https://user-images.githubusercontent.com/10244692/122553560-79408080-d055-11eb-9222-81273903100f.png)
 
+[![name](https://user-images.githubusercontent.com/10244692/122553560-79408080-d055-11eb-9222-81273903100f.png)](https://www.buymeacoffee.com/saikatdas)
+
  
 
 
