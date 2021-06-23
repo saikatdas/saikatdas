@@ -1,5 +1,8 @@
 <h1 align="center"> Hello There 👋 </h1>
 
+![image](https://user-images.githubusercontent.com/10244692/123039641-23caf180-d410-11eb-9b31-58862658f9f6.png)
+
+
 
 * I am [Saikat Das](https://www.linkedin.com/in/saikatdas93/) :blush:	 . Currently I am working as a Senior DevOps Engineer @ IBM :satellite:
 
