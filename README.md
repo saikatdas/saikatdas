@@ -1,7 +1,9 @@
 <h1 align="center"> Hello There 👋 </h1>
 <h5>Saikat is looking for a job change , Do you have any vacancy in DevOps / Cloud(AWS) ? </h5>
 <br>
-![image](https://user-images.githubusercontent.com/10244692/123039641-23caf180-d410-11eb-9b31-58862658f9f6.png)
+
+![image](https://user-images.githubusercontent.com/10244692/123040840-0ac34000-d412-11eb-92d1-720da728793a.png)
+
 <br>
 
 * I am [Saikat Das](https://www.linkedin.com/in/saikatdas93/) :blush:	 . Currently I am working as a Senior DevOps Engineer @ IBM :satellite:
